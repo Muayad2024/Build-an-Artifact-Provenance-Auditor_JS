@@ -1,0 +1,1 @@
+This code make a collection of objects and arrays nested inside main object for an artifact in a Museum to sort and control the information of these collections, I made many functions to manipulate this data inside the collection object
